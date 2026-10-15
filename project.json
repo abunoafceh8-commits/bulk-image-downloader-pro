@@ -1,7 +1,19 @@
 {
-  "slug": "bulk-image-downloader-pro",
-  "url": "https://codewords.agemo.ai/run/bulk_image_downloader_pro_3eb5dcbb?runId=cwr-168f976b-ec7a-4886-9de4-ebab4130b499",
-  "title": "Bulk Image Downloader Pro",
-  "desc": "أداة تحميل صور متقدمة مع خيار only X (Codewords, تتطلب تسجيل دخول).",
-  "auth": true
+  "name": "bulk-image-downloader-pro",
+  "title": "أداة تحميل صور متقدمة مع خيار Only X",
+  "category": "أدوات الصور",
+  "description": "أداة تحميل صور جماعية احترافية مع خيار التصفية على صور X/Twitter فقط (Only X). أعيد بناؤها كتطبيق ويب مفتوح المصدر.",
+  "liveUrl": null,
+  "aliases": [],
+  "sourceLinks": [
+    "https://codewords.agemo.ai/run/bulk_image_downloader_pro_3eb5dcbb?runId=cwr-168f976b-ec7a-4886-9de4-ebab4130b499"
+  ],
+  "originalTitle": "أداة تحميل صور متقدمة مع خيار Only X",
+  "originalDescription": "أداة تحميل صور جماعية احترافية مع خيار التصفية على صور X/Twitter فقط (Only X). أعيد بناؤها كتطبيق ويب مفتوح المصدر.",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "index.html (reconstructed)"
+  ]
 }
